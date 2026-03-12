@@ -115,8 +115,6 @@ These libraries are included in Python’s **standard library**.
 
 # 📸 Screenshot
 
-Add screenshot here:
-
 image.png
 
 ---
