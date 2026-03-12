@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Algorithm](https://img.shields.io/badge/Algorithm-BFS-green)
-![License](https://img.shields.io/badge/License-MIT-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
 
 A **terminal-based Path Finding Visualizer** built using **Python** that demonstrates how the **Breadth First Search (BFS)** algorithm explores a maze to find the shortest path.
 
